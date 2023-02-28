@@ -1,3 +1,6 @@
 (sym_lib_table
   (lib (name "put_on_edge")(type "KiCad")(uri "${KIPRJMOD}/../put_on_edge/put_on_edge.kicad_sym")(options "")(descr ""))
+  (lib (name "b018")(type "KiCad")(uri "${KIPRJMOD}/../b018_pi_pico_breakout/board/b018.kicad_sym")(options "")(descr ""))
+  (lib (name "b096")(type "KiCad")(uri "${KIPRJMOD}/../b096_MAC_ID_chip_11AA02E48_11AA02E64/board/b096.kicad_sym")(options "")(descr ""))
+  (lib (name "b078")(type "KiCad")(uri "${KIPRJMOD}/../b078_Ethernet_MAC-PHY_WIZ5500/board/b078.kicad_sym")(options "")(descr ""))
 )

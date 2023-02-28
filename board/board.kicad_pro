@@ -437,7 +437,15 @@
     ],
     [
       "767ce4c6-0e55-4543-92f0-34cb8237a544",
-      "implementation"
+      "rp2040"
+    ],
+    [
+      "861c2f1b-c8f0-4d7b-be1f-ed76d698b8b8",
+      "controller"
+    ],
+    [
+      "3427edd0-8d2d-4ab5-b96c-2fa65028a2b3",
+      "mac"
     ]
   ],
   "text_variables": {}
