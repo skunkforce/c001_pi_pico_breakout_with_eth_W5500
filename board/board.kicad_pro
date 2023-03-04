@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.25
         }
       },
       "diff_pair_dimensions": [
@@ -55,7 +55,11 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|153020001|76380001|704d46f7-138a-41b4-a65f-5624c53bbea1|9bc81dbc-0656-4c01-b99e-a59c3f8f97b1",
+        "items_not_allowed|144300000|51500000|cb648697-a0d1-4a92-b68d-c52cd5c390e6|00000000-0000-0000-0000-000000000000",
+        "items_not_allowed|156633773|77733773|228c29d7-6466-40ee-84ad-a5d8c520d7dd|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -437,7 +441,15 @@
     ],
     [
       "767ce4c6-0e55-4543-92f0-34cb8237a544",
-      "implementation"
+      "rp2040"
+    ],
+    [
+      "861c2f1b-c8f0-4d7b-be1f-ed76d698b8b8",
+      "controller"
+    ],
+    [
+      "3427edd0-8d2d-4ab5-b96c-2fa65028a2b3",
+      "mac"
     ]
   ],
   "text_variables": {}

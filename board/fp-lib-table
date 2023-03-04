@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name "on_edge")(type "KiCad")(uri "${KIPRJMOD}/../put_on_edge/on_edge.pretty")(options "")(descr ""))
+  (lib (name "b018")(type "KiCad")(uri "${KIPRJMOD}/../b018_pi_pico_breakout/board/b018.pretty")(options "")(descr ""))
+  (lib (name "c001")(type "KiCad")(uri "${KIPRJMOD}/c001.pretty")(options "")(descr ""))
 )
