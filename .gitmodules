@@ -1,3 +1,12 @@
 [submodule "put_on_edge"]
 	path = put_on_edge
 	url = https://github.com/skunkforce/put_on_edge
+[submodule "b018_pi_pico_breakout"]
+	path = b018_pi_pico_breakout
+	url = https://github.com/skunkforce/b018_pi_pico_breakout.git
+[submodule "b078_Ethernet_MAC-PHY_WIZ5500"]
+	path = b078_Ethernet_MAC-PHY_WIZ5500
+	url = https://github.com/skunkforce/b078_Ethernet_MAC-PHY_WIZ5500.git
+[submodule "b096_MAC_ID_chip_11AA02E48_11AA02E64"]
+	path = b096_MAC_ID_chip_11AA02E48_11AA02E64
+	url = git@github.com:skunkforce/b096_MAC_ID_chip_11AA02E48_11AA02E64.git
