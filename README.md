@@ -3,6 +3,13 @@ This design is part of the [edgy board project](https://github.com/skunkforce/ed
 
 ![](/board/board.png)
 
+This design is a composition of edgies.
+```mermaid
+graph LR
+    b018(b018 RP2040)-- SPI -->b078(b078 Ethernet MAC+PHY)
+    b018--> b096(b096 MAC ID)
+
+```
 # getting started
 This repository uses submodules. After cloning use the command 
 
